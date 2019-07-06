@@ -23,6 +23,7 @@
 	<form action="register.jsp">
 			<input type="text"  name="uname" >
 			<input type="Submit"  name="" value="go">
+			//comments
 	</form>
 	
 </body>
