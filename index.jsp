@@ -22,6 +22,7 @@
 	%>
 	<form action="register.jsp">
 			<input type="text"  name="uname" >
+			<input type="text"  name="fname" >
 			<input type="Submit"  name="" value="go">
 	</form>
 	
